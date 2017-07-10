@@ -1,0 +1,17 @@
+{
+  "name": "@apps/services",
+  "version": "1.0.0",
+  "description": "services 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "author": "Richard Scoones",
+  "license": "ISC"
+}

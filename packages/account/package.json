@@ -1,0 +1,20 @@
+{
+  "name": "@apps/account",
+  "version": "1.0.0",
+  "description": "blah 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apps/services": "1.0.0"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "author": "Richard Scoones",
+  "license": "ISC"
+}

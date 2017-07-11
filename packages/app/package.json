@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "@apps/app",
   "version": "1.0.0",
   "description": "The app holder",
   "main": "index.js",
